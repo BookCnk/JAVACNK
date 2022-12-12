@@ -1,5 +1,11 @@
 import java.util.Arrays;
 
+
+//ให้ randomเลข 100 - 200  ให้หาเลขที่หารด้วย 5 หรือ 3 ลงตัว  สร้างเป็น 2 medtod เหมือนเดิม
+//out put [55,50,45]
+//ข้อสอง  หาผลรวมทั้งหมดของเลขทั้งหมดที่หารด้วย 5 หรือ 3 ลงตัว
+
+
 public class Ramdom {
     public static void main(String[] args) {
         int[] r1 = random1(6);
